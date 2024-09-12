@@ -1,0 +1,6 @@
+@POOFinancas_HostAddress = http://localhost:5251
+
+GET {{POOFinancas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
